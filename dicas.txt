@@ -1,0 +1,12 @@
+Ao adicionar alguém na lista de emails, lembre-se sempre de usar ';'
+é o que definirá a coluna.
+
+ex:
+  index;nome;valor;email
+nesse caso, cada ';' define o início de uma outra coluna
+----------------------------------------------------------------------
+
+O corpo do index é ao seu gosto, use bastante de sua própria criatividade,
+mas lembre-se que imagem só poderão ser adiconadas por meio de links online.
+
+--------------------------------------------------------------------------
