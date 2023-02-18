@@ -1,6 +1,6 @@
 # Send E-mails.py
 
-### Um protótipo de programa em python que envia e-mails listados em um arquivo .csv****
+### Um protótipo de programa em python que envia e-mails listados em um arquivo .csv
 
 ---
 
